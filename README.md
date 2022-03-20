@@ -13,5 +13,5 @@ This map can be found at:
 <h2>Reflective Analysis</h2>
 
 
-<h2>Response to Map Critique Sessions</h2>
+<h2>Map Critique Sessions & Outside Sources</h2>
 
