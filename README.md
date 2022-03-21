@@ -8,7 +8,7 @@ https://frankcrossley.github.io/rockwallaby/Wallabies.html?fbclid=IwAR0km33vCAlh
 
 <h2>Screenhot</h2> 
 
-![alt text](https://github.com/UBC-GEOS472-Spring2022/frankcrossley_lab1/blob/main/frankcrossley-map-screenshot.png "Screenshot of Donetsk from my storyboard map")
+![alt text](https://raw.githubusercontent.com/frankcrossley/rockwallaby/main/Lab2_Screenshot.png "Screenshot of my interactive species distribution modelling maps")
   
 <h2>Reflective Analysis</h2>
 
