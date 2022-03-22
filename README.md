@@ -4,7 +4,7 @@
 
 This map can be found at:
 
-https://frankcrossley.github.io/rockwallaby/Wallabies.html?fbclid=IwAR0km33vCAlhls6aMJz0UMCjPznpSMLsJB8Ram-wI7NacKyYfofKUOKO98s#BlackWallab
+https://frankcrossley.github.io/rockwallaby/Wallabies.html
 
 <h2>Screenhot</h2> 
 
